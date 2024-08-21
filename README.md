@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I'm a Full-Stack Software Engineer, passionate about building practical and user-friendly solutions. Recently, I developed [FinanceFirst](https://financefirst.app), a personal finance tracking app to help users manage their finances with ease.
+I'm a Full-Stack Developer, passionate about building practical and user-friendly solutions. Recently, I developed [FinanceFirst](https://financefirst.app), a personal finance tracking app to help users manage their finances with ease.
 
 ## 🤝 Connect with Me:
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edina-hollo) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edinarostas) 
