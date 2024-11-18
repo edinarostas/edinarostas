@@ -2,7 +2,8 @@
 
 I’m a self-taught Full-Stack Developer turned into Bootcamp graduate, combining hands-on coding expertise with a BSc in Product Management, ready to bridge the gap between innovative tech solutions and user-focused product strategies.
 
- - 💲 Recently, I developed [FinanceFirst](https://financefirst.app), a personal finance tracking app to help users manage their finances with ease.
+ - 💬🚫 Recently, I developed [ScamShield](https://github.com/edinarostas/ScamShield-Frontend), an advanced machine learning tool designed for messaging platforms, integrated within a mockup re-commerce storefront.
+ - 💲 I developed [FinanceFirst](https://financefirst.app), a personal finance tracking app to help users manage their finances with ease.
 
 ### 🛠️ Languages and Tools I use:
 
