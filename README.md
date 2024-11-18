@@ -9,4 +9,4 @@ I’m a self-taught Full-Stack Developer turned into Bootcamp graduate, combinin
 ![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,react,nodejs,express,php,symfony,mysql,docker,aws,postgres,prisma,jest,github,figma&perline=9)
 
 ### 🤝 Connect with Me 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/edina-hollo) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](edina.hollo8@gmail.com) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/edina-hollo) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:edina.hollo8@gmail.com) 
